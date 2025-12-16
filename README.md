@@ -9,21 +9,8 @@ This capstone project focuses on an in-depth analysis of the Airline database us
 ## Database Schema Overview
 The Airline Database contains several interconnected tables representing various aspects of airline operations:
 
-Bookings
+<img width="151" height="233" alt="image" src="https://github.com/user-attachments/assets/d6e729e0-85bc-40ab-af6d-5504e22020cb" />
 
-Tickets
-
-Ticket_flights
-
-Flights
-
-Airports
-
-Aircraft
-
-Seats
-
-Boarding_passes
 
 ## Entity Relationship Diagram :
 
@@ -31,101 +18,34 @@ Boarding_passes
 
 
 ## Key relationships:
-One booking can include several passengers, each with a unique ticket.
 
-A ticket includes one or more flight segments.
+<img width="542" height="115" alt="image" src="https://github.com/user-attachments/assets/20c95243-febf-4831-82b3-f5270b2369f3" />
 
-Each flight goes from one airport to another.
-
-Aircraft models have specific seat configurations.
 
 ## Project Highlights
-Comprehensive analysis of flight data, including departures, arrivals, and cancellations.
 
-Exploration of aircraft utilization and performance.
+<img width="656" height="119" alt="image" src="https://github.com/user-attachments/assets/ea7d75d4-b2b2-46cd-9b0b-75f7870f06fe" />
 
-Customer-centric analysis focusing on bookings and potential refunds.
-
-Airport performance evaluation.
 
 ## Key SQL Concepts and Techniques Used
-Basic SQL Operations: Mastered fundamental SQL commands for data retrieval and manipulation.
 
-Joins: Employed various join types to combine data from multiple tables.
+<img width="803" height="359" alt="image" src="https://github.com/user-attachments/assets/0a6de470-bdd0-43ee-8715-de73ebeb4d8f" />
 
-Aggregation Functions: Applied functions to perform calculations on sets of values.
-
-Advanced SQL Functions: Leveraged sophisticated SQL functions for complex data analysis.
-
-Employed Window functions for comparative analysis within data subsets.
-
-Utilized Date and Time functions for temporal data manipulation and reporting.
-
-Implemented conditional logic for data categorization.
-
-Subqueries and Common Table Expressions (CTEs): Structured complex queries for advanced data retrieval.
-
-Created CTEs to improve query readability and performance.
-
-Developed nested subqueries to handle multi-level data aggregation and filtering.
-
-String Operations: Performed text-based data manipulation and searching.
-
-Data Manipulation: Handled various data scenarios including NULL values.
-
-Implemented strategies to manage and analyze datasets with missing information.
 
 ## Sample Queries and Insights
-Airport Analysis
 
-Identified airports in specific timezones
-Analyzed airports with maximum departure flights
-Flight Statistics
+<img width="552" height="536" alt="image" src="https://github.com/user-attachments/assets/5c3c0986-854e-4095-a0b8-24f4a7f95439" />
 
-Counted flights between specific airports
-Analyzed flight cancellations and delays
-Aircraft Utilization
-
-Examined seat configurations across different aircraft
-Identified flights using specific aircraft models (e.g., Airbus, Boeing)
-Customer-Centric Analysis
-
-Calculated potential refunds for cancelled flights
-Analyzed booking patterns
-Time-Based Analysis
-
-Identified first and last flights for each airport daily
-Examined morning flight schedules
 
 ## Tools Used
-PostgreSQL
 
-pgAdmin (SQL client)
+<img width="205" height="65" alt="image" src="https://github.com/user-attachments/assets/c2842bb3-4da1-422e-9276-f231b8c6d98f" />
+
 
 ## Skills Learned and Enhanced
-Advanced SQL query construction and optimization
 
-Data modeling and database schema interpretation
+<img width="531" height="344" alt="image" src="https://github.com/user-attachments/assets/7edf216b-929c-48cf-afcc-22787122db54" />
 
-Complex problem-solving through SQL
-
-Performance tuning of SQL queries
-
-Data cleaning and preprocessing using SQL
-
-Analytical thinking and data-driven decision making
-
-Proficiency in pgAdmin for database management and query execution
-
-Understanding and manipulation of large-scale relational databases
-
-Time-series data analysis in SQL
-
-Advanced aggregation and window function techniques
-
-Subquery and CTE optimization for complex data retrieval
-
-Cross-table data analysis and relationship mapping
 
 ## SQL Query File
 Download SQL Queries
@@ -133,9 +53,9 @@ Download SQL Queries
 Click the link above to download the SQL file containing all the queries used in this project. This file includes detailed comments explaining each query's purpose and functionality, serving as a comprehensive reference for the analytical techniques employed in this capstone project.
 
 ## Future Enhancements
-Develop visualizations based on SQL query results
 
-Integrate with a BI tool for dynamic reporting
+<img width="392" height="71" alt="image" src="https://github.com/user-attachments/assets/fac7e655-6da5-4ffe-a14e-33c52ac18766" />
+
 
 ## Conclusion
 This project showcases advanced SQL skills in analyzing a complex airline database. Through various queries and analyses, it provides valuable insights into flight operations, customer behavior, and airport performance, demonstrating the power of SQL in data analytics for the aviation industry.
