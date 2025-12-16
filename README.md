@@ -46,12 +46,6 @@ The Airline Database contains several interconnected tables representing various
 
 <img width="531" height="344" alt="image" src="https://github.com/user-attachments/assets/7edf216b-929c-48cf-afcc-22787122db54" />
 
-
-## SQL Query File
-Download SQL Queries
-
-Click the link above to download the SQL file containing all the queries used in this project. This file includes detailed comments explaining each query's purpose and functionality, serving as a comprehensive reference for the analytical techniques employed in this capstone project.
-
 ## Future Enhancements
 
 <img width="392" height="71" alt="image" src="https://github.com/user-attachments/assets/fac7e655-6da5-4ffe-a14e-33c52ac18766" />
