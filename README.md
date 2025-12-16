@@ -1,5 +1,7 @@
 # Airline Database SQL Analytics
 
+<img width="862" height="485" alt="image" src="https://github.com/user-attachments/assets/069585b2-9e0d-4dfe-9d73-0954717fb17c" />
+
 
 ## Project Overview
 This capstone project focuses on an in-depth analysis of the Airline database using advanced SQL techniques. The project demonstrates proficiency in complex SQL queries, data manipulation, and extraction of meaningful insights from a real-world airline database schema.
