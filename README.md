@@ -8,42 +8,69 @@ This capstone project focuses on an in-depth analysis of the Airline database us
 The Airline Database contains several interconnected tables representing various aspects of airline operations:
 
 Bookings
+
 Tickets
+
 Ticket_flights
+
 Flights
+
 Airports
+
 Aircraft
+
 Seats
+
 Boarding_passes
 
 ## Entity Relationship Diagram :
-AirlineDB pdf (1)
+
+<img width="842" height="554" alt="image" src="https://github.com/user-attachments/assets/04bcc9a3-6f9c-48fc-b322-43ae229a5818" />
+
 
 ## Key relationships:
 One booking can include several passengers, each with a unique ticket.
+
 A ticket includes one or more flight segments.
+
 Each flight goes from one airport to another.
+
 Aircraft models have specific seat configurations.
 
 ## Project Highlights
 Comprehensive analysis of flight data, including departures, arrivals, and cancellations.
+
 Exploration of aircraft utilization and performance.
+
 Customer-centric analysis focusing on bookings and potential refunds.
+
 Airport performance evaluation.
 
 ## Key SQL Concepts and Techniques Used
 Basic SQL Operations: Mastered fundamental SQL commands for data retrieval and manipulation.
+
 Joins: Employed various join types to combine data from multiple tables.
+
 Aggregation Functions: Applied functions to perform calculations on sets of values.
+
 Advanced SQL Functions: Leveraged sophisticated SQL functions for complex data analysis.
+
 Employed Window functions for comparative analysis within data subsets.
+
 Utilized Date and Time functions for temporal data manipulation and reporting.
+
 Implemented conditional logic for data categorization.
+
 Subqueries and Common Table Expressions (CTEs): Structured complex queries for advanced data retrieval.
+
 Created CTEs to improve query readability and performance.
+
 Developed nested subqueries to handle multi-level data aggregation and filtering.
+
 String Operations: Performed text-based data manipulation and searching.
+
 Data Manipulation: Handled various data scenarios including NULL values.
+
 Implemented strategies to manage and analyze datasets with missing information.
 
 ## Sample Queries and Insights
@@ -70,20 +97,32 @@ Examined morning flight schedules
 
 ## Tools Used
 PostgreSQL
+
 pgAdmin (SQL client)
 
 ## Skills Learned and Enhanced
 Advanced SQL query construction and optimization
+
 Data modeling and database schema interpretation
+
 Complex problem-solving through SQL
+
 Performance tuning of SQL queries
+
 Data cleaning and preprocessing using SQL
+
 Analytical thinking and data-driven decision making
+
 Proficiency in pgAdmin for database management and query execution
+
 Understanding and manipulation of large-scale relational databases
+
 Time-series data analysis in SQL
+
 Advanced aggregation and window function techniques
+
 Subquery and CTE optimization for complex data retrieval
+
 Cross-table data analysis and relationship mapping
 
 ## SQL Query File
@@ -93,6 +132,7 @@ Click the link above to download the SQL file containing all the queries used in
 
 ## Future Enhancements
 Develop visualizations based on SQL query results
+
 Integrate with a BI tool for dynamic reporting
 
 ## Conclusion
